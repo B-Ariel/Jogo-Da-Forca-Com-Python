@@ -1,20 +1,11 @@
-Dictionary collection in Portuguese (pt-BR)
-===
+# Esse joguinho foi feito com inspiração num projeto do codedex:
+### https://github.com/codedex-io
 
-Wordlist, verbs, conjugations, term frequencies.
+# Nome do projeto original: Build a Word Guessing Game with Python
+### https://www.codedex.io/projects/build-a-word-guessing-game-with-python
 
-Coleção de dicionários em Portugues (pt-BR)
-===
+# Feito pelo usuário Daniel Li (@realdanielli): https://www.codedex.io/@realdanielli
 
-Lista de palavras, verbos, conjugações e frequência de termos.
-
-* *palavras* lista de palavras em Português.
-* *dicio* lista de palavras com maior certeza.
-* *verbos* lista de verbos.
-* *conjugações* todas as conjugações dos verbos.
-* *tf* CSV de frequência de termos.
-
-
-Listas faltando:
-
-* *cep* cidades, estados e países
+# Esse joguinho está usando:
+### Coleção de dicionários em Portugues (pt-BR) do Fernando Serboncini: @fserb
+### https://github.com/fserb/pt-br
