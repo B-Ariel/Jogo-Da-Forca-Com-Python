@@ -135,7 +135,8 @@ homemPalito = ["""               _+______+
 
 # Definindo as listas de palavras para o jogo
 bancoDePalavras = [] # Lista de palavras
-# Ler linha por linha dos arquivos de palavras: verbos.txt e adiciona no banco de palavras
+# Ler linha por linha dos arquivos de palavras: 'verbos.txt' ou 'conjugações.txt' e adiciona no banco de palavras;
+# Mas se quiser, pode colocar as palavras manualmente no: 'bancoDePalavras = []'
 with open('verbos.txt', 'r') as arquivo:
     for linha in arquivo:
         bancoDePalavras.append(linha.strip())
