@@ -14,5 +14,3 @@
 
 ### Aqui eu perdendo lol:
 ![Uma gameplay de um usuário perdendo](Jogo-de-Adivinhação-de-Palavras.gif)
-
-![Um desenho de uma cobrinha estilo cartoon, com a palavra python do lado](python-literalmente.png)
