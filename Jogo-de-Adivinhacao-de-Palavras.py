@@ -1,16 +1,14 @@
 '''Jogo de Adivinhação de Palavras'''
 
-# Esse joguinho foi feito com inspiração num projeto do codedex:
-# https://github.com/codedex-io
-# Nome do projeto original: Build a Word Guessing Game with Python
-# https://www.codedex.io/projects/build-a-word-guessing-game-with-python
-# Pelo usuário Daniel Li (@realdanielli): https://www.codedex.io/@realdanielli
+# Esse jogo foi feito com inspiração em um projeto da:
+# codedex - https://github.com/codedex-io
+# Projeto original feito pelo usuário da codedex: Daniel Li @realdanielli - https://www.codedex.io/@realdanielli
+# Nome do projeto original: Build a Word Guessing Game with Python - https://www.codedex.io/projects/build-a-word-guessing-game-with-python
 
-
-# Esse joguinho está usando:
-# Coleção de dicionários em Portugues (pt-BR)
-# https://github.com/fserb/pt-br
-# Postado e mantido sobre a licença MIT no GitHub por: @fserb (Fernando Serboncini)
+# Esse jogo está usando:
+# Coleção de dicionários em Portugues (pt-BR) - https://github.com/fserb/pt-br
+# Do Fernando Serboncini: @fserb - https://github.com/fserb
+# Ao qual este está sobre a licença MIT:
 # Copyright 2021 Fernando Serboncini
 # Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files
 # (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge,
