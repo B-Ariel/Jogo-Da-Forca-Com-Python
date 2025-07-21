@@ -12,5 +12,5 @@
 
 <br>
 
-### Aqui eu perdendo lol:
+### Aqui eu perdendo:
 ![Uma gameplay de um usuário perdendo](Jogo-de-Adivinhação-de-Palavras.gif)
